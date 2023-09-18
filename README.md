@@ -9,3 +9,6 @@ This repository is a collection of different Python projects.
 - [Leetcode](leetcode/)
     - [Add Two Integers](leetcode/add_two_integers.py)
     - [Contains Duplicate](leetcode/contains_duplicate.py)
+    - [Valid Anagram](leetcode/valid_anagram.py)
+    - [Two Sum](leetcode/two_sum.py)
+    - [Group Anagrams](leetcode/group_anagrams.py)
