@@ -12,3 +12,4 @@ This repository is a collection of different Python projects.
     - [Valid Anagram](leetcode/valid_anagram.py)
     - [Two Sum](leetcode/two_sum.py)
     - [Group Anagrams](leetcode/group_anagrams.py)
+- [Bubble Sort algorithm](bubble_sort/bubble_sort.py)
